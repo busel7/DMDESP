@@ -66,8 +66,6 @@ public:
     void setBrightness(uint16_t crh);
     static Color fromRGB(uint8_t r, uint8_t g, uint8_t b);
 
-    void TeksJalan(int y, int kecepatan);
-
 private:
     // Disable copy constructor and operator=().
     DMDESP(const DMDESP &other) : Bitmap(other) {}
