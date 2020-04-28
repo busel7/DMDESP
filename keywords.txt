@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For DMDESP
+#######################################
+# Separate using TABS not SPACES!
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+# DMDESP Class
+start	KEYWORD2
+loop	KEYWORD2
+setBrightness	KEYWORD2
+setFont	KEYWORD2
+drawText	KEYWORD2
+textWidth	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
