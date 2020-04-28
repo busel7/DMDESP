@@ -1,0 +1,13 @@
+{
+    "name": "DMDESP",
+    "keywords": "DMDESP, DMD, P10, HUB12, display",
+    "description": "DMDESP LED P10 HUB12 library for ESP8266.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/busel7/DMDESP.git"
+    },
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "esp8266"
+}
+
