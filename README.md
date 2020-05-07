@@ -9,23 +9,24 @@ alt="JWSP10 NodeMCU ESP8266" width="240" height="180" border="10" /></a>
 
 ## Hardware
 
-NodeMCU ESP8266
-- https://tokopedia.com/elektronmartcom/nodemcu-esp32-wifi-bluetooth-board-cp2102
-- https://www.tokopedia.com/elektronmartcom/nodemcu-esp8266-v3-lua-wifi-board-ch340
-- https://www.bukalapak.com/p/elektronik/komponen-elektronik/1fl2z9z-jual-nodemcu-esp8266-v3-lua-wifi-board-cp2102
-- https://www.bukalapak.com/p/elektronik/komponen-elektronik/1lpt86t-jual-nodemcu-esp8266-v3-lua-wifi-board-ch340
+Controller JWS FullSet PCB ElektronMart JWSNodeMCUP10 Board v2.0
+- https://tokopedia.com/elektronmartcom/controller-jws-murottal-quad-multi-panel-wifi-mp3-jam-jadwal-sholat
+- https://www.bukalapak.com/p/elektronik/elektronik-lainnya/315l4pa-jual-controller-jws-murottal-quad-multi-panel-wifi-mp3-jam-jadwal-sholat-led-masjid
 
 LED Panel P10
 - https://www.tokopedia.com/elektronmartcom/led-display-panel-p10-smd-outdoor-green-hijau
 - https://www.bukalapak.com/p/elektronik/komponen-elektronik/2qkxq35-jual-led-display-panel-p10-smd-outdoor-green-hijau
 
-FullSet PCB ElektronMart JWSNodeMCUP10 Board v2.0
-- https://www.tokopedia.com/elektronmartcom/pcb-full-set-jws-nodemcu-board-2-0-elektronmart-led-p10-arduino
-- https://www.bukalapak.com/p/elektronik/komponen-elektronik/2cqmkgd-jual-pcb-full-set-jws-nodemcu-board-2-0-elektronmart-led-p10-arduino
 
-PCB ElektronMart JWSNodeMCUP10 Board v2.0
-- https://www.tokopedia.com/elektronmartcom/pcb-jws-nodemcu-board-2-0-elektronmart-led-p10-arduino
+JWS KIT
+- https://tokopedia.com/elektronmartcom/jws-kit-controller-led-p10-hub12-mp3-murottal-jadwal-sholat-digital
+- https://www.bukalapak.com/p/elektronik/media-player-set-top-box/36buedq-jual-jws-kit-controller-led-p10-hub12-mp3-murottal-jadwal-sholat-digital
+
+
+PCB Only
+- https://tokopedia.com/elektronmartcom/pcb-jws-nodemcu-board-2-0-elektronmart-led-p10-arduino
 - https://www.bukalapak.com/p/elektronik/komponen-elektronik/2aiovn2-jual-pcb-jws-nodemcu-board-2-0-elektronmart-led-p10-arduino
+
 
 ### Pin on DMD LED P10 Panel
 
