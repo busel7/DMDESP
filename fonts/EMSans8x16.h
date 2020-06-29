@@ -1,6 +1,6 @@
 /*
  *
- * EMSansBig8x16
+ * EMSans8x16
  *
  *
  * File Name           : EMSans8x16.h
