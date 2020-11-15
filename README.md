@@ -40,6 +40,13 @@ PCB Only
 | NOE     | D8      |
 | GND     | GND     |
 
+## Software
+
+- Arduino IDE
+  Download & Install : https://www.arduino.cc/en/software
+- ESP8266 Board
+  Files > Preferences > Settings > Additional Boards Manager URLs : https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 ### Terimakasih Kepada
 - dmk007 (HJS589 DMD porting for ESP8266)
 - rweather (https://github.com/rweather/arduino-projects/blob/master/libraries/DMD)
