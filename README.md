@@ -40,6 +40,12 @@ PCB Only
 | NOE     | D8      |
 | GND     | GND     |
 
+
+### Wiring
+
+https://github.com/busel7/DMDESP/blob/master/wiring.jpg
+
+
 ## Software
 
 - Arduino IDE
