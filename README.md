@@ -4,7 +4,7 @@
 
 ## Contoh Project
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6WFdybnsPQU" target="_blank"><img src="http://img.youtube.com/vi/6WFdybnsPQU/0.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cDKsBYR1Nps" target="_blank"><img src="http://img.youtube.com/vi/cDKsBYR1Nps/0.jpg"
 alt="JWSP10 NodeMCU ESP8266" width="240" height="180" border="10" /></a>
 
 ## Hardware
