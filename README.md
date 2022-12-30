@@ -2,15 +2,12 @@
 
 # Untuk Menjalankan P10 Satu Warna HUB12 dengan NodeMCU ESP8266
 
-## Contoh Project
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=cDKsBYR1Nps" target="_blank"><img src="http://img.youtube.com/vi/cDKsBYR1Nps/0.jpg"
-alt="JWSP10 NodeMCU ESP8266" width="240" height="180" border="10" /></a>
-
-## Tutorial
+## Contoh
 
 <a href="https://youtube.com/playlist?list=PLKuQ-UWqAt3OseL7NHUupuKpr04o4ReUD" target="_blank"><img src="https://i.ytimg.com/vi/W6BT-Ju3rFg/hqdefault.jpg" alt="Playlist Tutorial DMDESP" width="240" height="180" border="10" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cDKsBYR1Nps" target="_blank"><img src="http://img.youtube.com/vi/cDKsBYR1Nps/0.jpg"
+alt="JWSP10 NodeMCU ESP8266" width="240" height="180" border="10" /></a>
 
 
 ## Hardware
