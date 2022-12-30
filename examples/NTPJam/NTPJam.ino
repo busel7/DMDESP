@@ -22,8 +22,8 @@
 DMDESP Disp(DISPLAYS_WIDE, DISPLAYS_HIGH);  // Jumlah Panel P10 yang digunakan (KOLOM,BARIS)
 
 // WIFI Setup
-#define ssid      "elektronmartcom"
-#define password  "12345678"
+#define ssid      "elektronmartcom" // Ubah sesuaikan
+#define password  "12345678"        // Ubah sesuaikan
 
 // NTP Client Setup
 const long utcOffset = 3600 * 7; // Waktu WIB
